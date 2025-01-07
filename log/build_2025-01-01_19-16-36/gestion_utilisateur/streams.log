@@ -1,0 +1,19 @@
+[1.040s] Invoking command in '/home/codespace/ros2_ws/build/gestion_utilisateur': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/gestion_utilisateur/build --no-deps symlink_data --force
+[1.337s] running develop
+[1.493s] running egg_info
+[1.494s] writing gestion_utilisateur.egg-info/PKG-INFO
+[1.494s] writing dependency_links to gestion_utilisateur.egg-info/dependency_links.txt
+[1.495s] writing entry points to gestion_utilisateur.egg-info/entry_points.txt
+[1.495s] writing requirements to gestion_utilisateur.egg-info/requires.txt
+[1.495s] writing top-level names to gestion_utilisateur.egg-info/top_level.txt
+[1.571s] reading manifest file 'gestion_utilisateur.egg-info/SOURCES.txt'
+[1.572s] writing manifest file 'gestion_utilisateur.egg-info/SOURCES.txt'
+[1.632s] running build_ext
+[1.633s] Creating /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/site.py
+[1.637s] Creating /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion-utilisateur.egg-link (link to .)
+[1.637s] 
+[1.637s] Installed /home/codespace/ros2_ws/build/gestion_utilisateur
+[1.637s] running symlink_data
+[1.637s] symbolically linking /home/codespace/ros2_ws/build/gestion_utilisateur/resource/gestion_utilisateur -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+[1.637s] symbolically linking /home/codespace/ros2_ws/build/gestion_utilisateur/package.xml -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/gestion_utilisateur
+[1.667s] Invoked command in '/home/codespace/ros2_ws/build/gestion_utilisateur' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/gestion_utilisateur/build --no-deps symlink_data --force

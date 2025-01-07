@@ -1,0 +1,31 @@
+running egg_info
+creating ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info
+writing ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/PKG-INFO
+writing dependency_links to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/dependency_links.txt
+writing entry points to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/entry_points.txt
+writing requirements to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/requires.txt
+writing top-level names to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/top_level.txt
+writing manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+reading manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+writing manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/codespace/ros2_ws/build/gestion_utilisateur/build
+creating /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib
+creating /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur
+copying gestion_utilisateur/__init__.py -> /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur
+running install
+running install_lib
+creating /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur
+copying /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur/__init__.py -> /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur
+byte-compiling /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index
+creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index
+creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+copying resource/gestion_utilisateur -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+copying package.xml -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/gestion_utilisateur
+running install_egg_info
+Copying ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info to /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/codespace/ros2_ws/build/gestion_utilisateur/install.log'

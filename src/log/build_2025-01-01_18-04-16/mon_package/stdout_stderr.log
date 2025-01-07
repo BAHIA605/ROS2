@@ -1,0 +1,31 @@
+running egg_info
+creating ../build/mon_package/mon_package.egg-info
+writing ../build/mon_package/mon_package.egg-info/PKG-INFO
+writing dependency_links to ../build/mon_package/mon_package.egg-info/dependency_links.txt
+writing entry points to ../build/mon_package/mon_package.egg-info/entry_points.txt
+writing requirements to ../build/mon_package/mon_package.egg-info/requires.txt
+writing top-level names to ../build/mon_package/mon_package.egg-info/top_level.txt
+writing manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+reading manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+writing manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/codespace/ros2_ws/src/build/mon_package/build
+creating /home/codespace/ros2_ws/src/build/mon_package/build/lib
+creating /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package
+copying mon_package/__init__.py -> /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package
+running install
+running install_lib
+creating /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package
+copying /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package/__init__.py -> /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package
+byte-compiling /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index
+creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index
+creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index/packages
+copying resource/mon_package -> /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index/packages
+copying package.xml -> /home/codespace/ros2_ws/src/install/mon_package/share/mon_package
+running install_egg_info
+Copying ../build/mon_package/mon_package.egg-info to /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/codespace/ros2_ws/src/build/mon_package/install.log'

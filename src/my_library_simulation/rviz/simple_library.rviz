@@ -1,0 +1,37 @@
+Panels:
+  - Class: rviz_common/DisplaysPanel
+    Name: Displays
+    IsDocked: true
+Visualization Manager:
+  Class: rviz_common/VisualizationManager
+  Displays:
+    - Class: rviz_default_plugins/TF
+      Enabled: true
+      Name: TF
+      Show Axes: true
+    - Class: rviz_default_plugins/RobotModel
+      Enabled: true
+      Name: RobotModel
+      Robot Description: robot_description
+    - Class: rviz_default_plugins/LaserScan
+      Enabled: false
+      Name: LaserScan
+      Topic: /scan
+      Color: 255; 255; 255
+      Style: Points
+      Size (m): 0.1
+    - Class: rviz_default_plugins/Odometry
+      Enabled: true
+      Name: Odometry
+      Topic: /odom
+      Axes Length: 1.0
+      Axes Radius: 0.1
+  Global Options:
+    Background Color: 48; 48; 48
+    Stereo Enabled: false
+    Fixed Frame: base_link
+Window Geometry:
+  X: 100
+  Y: 100
+  Width: 1920
+  Height: 1080

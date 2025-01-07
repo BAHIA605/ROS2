@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing localisation_librairie.egg-info/PKG-INFO
+writing dependency_links to localisation_librairie.egg-info/dependency_links.txt
+writing entry points to localisation_librairie.egg-info/entry_points.txt
+writing requirements to localisation_librairie.egg-info/requires.txt
+writing top-level names to localisation_librairie.egg-info/top_level.txt
+reading manifest file 'localisation_librairie.egg-info/SOURCES.txt'
+writing manifest file 'localisation_librairie.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation-librairie.egg-link (link to .)
+Installing book_database script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+Installing request_manager script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+
+Installed /home/codespace/ros2_ws/build/localisation_librairie
+running symlink_data
+symbolically linking /home/codespace/ros2_ws/build/localisation_librairie/resource/localisation_librairie -> /home/codespace/ros2_ws/install/localisation_librairie/share/ament_index/resource_index/ament_package
+symbolically linking /home/codespace/ros2_ws/build/localisation_librairie/package.xml -> /home/codespace/ros2_ws/install/localisation_librairie/share/localisation_librairie

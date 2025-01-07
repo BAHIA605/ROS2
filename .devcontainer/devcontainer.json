@@ -1,0 +1,22 @@
+{
+  "name": "ROS 2 Workspace",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "ms-iot.vscode-ros",
+    "ms-vscode.cpptools"
+  ],
+  "postCreateCommand": "source /ros2_ws/install/setup.bash",
+  "runArgs": [
+    "--init",
+    "--rm",
+    "-v",
+    "/tmp/.X11-unix:/tmp/.X11-unix",
+    "-e",
+    "DISPLAY"
+  ]
+}

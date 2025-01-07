@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/PKG-INFO
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/dependency_links.txt
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/entry_points.txt
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/requires.txt
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/top_level.txt
+../build/gestion_utilisateur/gestion_utilisateur.egg-info/zip-safe
+gestion_utilisateur/__init__.py
+resource/gestion_utilisateur
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

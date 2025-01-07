@@ -1,0 +1,34 @@
+[1.070s] Invoking command in '/home/codespace/ros2_ws/build/localisation_librairie': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/codespace/ros2_ws/build/localisation_librairie/build
+[1.409s] running develop
+[1.584s] Removing /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation-librairie.egg-link (link to .)
+[1.614s] Invoked command in '/home/codespace/ros2_ws/build/localisation_librairie' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/codespace/ros2_ws/build/localisation_librairie/build
+[1.615s] Invoking command in '/home/codespace/ros2_ws/src/src/localisation_librairie': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/localisation_librairie build --build-base /home/codespace/ros2_ws/build/localisation_librairie/build install --record /home/codespace/ros2_ws/build/localisation_librairie/install.log --install-scripts $base/lib/localisation_librairie --single-version-externally-managed install_data --force
+[1.898s] running egg_info
+[1.899s] writing ../../../build/localisation_librairie/localisation_librairie.egg-info/PKG-INFO
+[1.900s] writing dependency_links to ../../../build/localisation_librairie/localisation_librairie.egg-info/dependency_links.txt
+[1.901s] writing entry points to ../../../build/localisation_librairie/localisation_librairie.egg-info/entry_points.txt
+[1.901s] writing requirements to ../../../build/localisation_librairie/localisation_librairie.egg-info/requires.txt
+[1.901s] writing top-level names to ../../../build/localisation_librairie/localisation_librairie.egg-info/top_level.txt
+[1.953s] reading manifest file '../../../build/localisation_librairie/localisation_librairie.egg-info/SOURCES.txt'
+[1.955s] writing manifest file '../../../build/localisation_librairie/localisation_librairie.egg-info/SOURCES.txt'
+[1.955s] running build
+[1.955s] running build_py
+[1.956s] running install
+[1.957s] running install_lib
+[1.958s] creating /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+[1.959s] copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/request_manager.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+[1.959s] copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/__init__.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+[1.959s] copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/book_database.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+[1.960s] byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/request_manager.py to request_manager.cpython-38.pyc
+[1.962s] byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/__init__.py to __init__.cpython-38.pyc
+[1.962s] byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/book_database.py to book_database.cpython-38.pyc
+[1.962s] running install_data
+[1.963s] copying resource/localisation_librairie -> /home/codespace/ros2_ws/install/localisation_librairie/share/ament_index/resource_index/ament_package
+[1.963s] copying package.xml -> /home/codespace/ros2_ws/install/localisation_librairie/share/localisation_librairie
+[1.963s] running install_egg_info
+[1.965s] Copying ../../../build/localisation_librairie/localisation_librairie.egg-info to /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie-0.0.1-py3.8.egg-info
+[1.967s] running install_scripts
+[1.992s] Installing book_database script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+[1.992s] Installing request_manager script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+[1.993s] writing list of installed files to '/home/codespace/ros2_ws/build/localisation_librairie/install.log'
+[2.024s] Invoked command in '/home/codespace/ros2_ws/src/src/localisation_librairie' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/localisation_librairie build --build-base /home/codespace/ros2_ws/build/localisation_librairie/build install --record /home/codespace/ros2_ws/build/localisation_librairie/install.log --install-scripts $base/lib/localisation_librairie --single-version-externally-managed install_data --force

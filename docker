@@ -1,0 +1,19 @@
+# Utilisez l'image officielle de ROS 2 Foxy
+FROM osrf/ros:foxy-desktop
+
+# Installer des dépendances supplémentaires si nécessaire
+RUN apt-get update && apt-get install -y \
+    python3-colcon-common-extensions \
+    python3-rosdep \
+    python3-rosinstall \
+    python3-rosinstall-generator \
+    python3-wstool \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+# Créer le workspace ROS 2
+RUN mkdir -p /ros2_ws/src
+WORKDIR /ros2_ws
+RUN colcon build
+
+

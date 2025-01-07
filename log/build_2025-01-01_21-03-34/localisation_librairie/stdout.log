@@ -1,0 +1,30 @@
+running develop
+Removing /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation-librairie.egg-link (link to .)
+running egg_info
+writing ../../../build/localisation_librairie/localisation_librairie.egg-info/PKG-INFO
+writing dependency_links to ../../../build/localisation_librairie/localisation_librairie.egg-info/dependency_links.txt
+writing entry points to ../../../build/localisation_librairie/localisation_librairie.egg-info/entry_points.txt
+writing requirements to ../../../build/localisation_librairie/localisation_librairie.egg-info/requires.txt
+writing top-level names to ../../../build/localisation_librairie/localisation_librairie.egg-info/top_level.txt
+reading manifest file '../../../build/localisation_librairie/localisation_librairie.egg-info/SOURCES.txt'
+writing manifest file '../../../build/localisation_librairie/localisation_librairie.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+creating /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/request_manager.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/__init__.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+copying /home/codespace/ros2_ws/build/localisation_librairie/build/lib/localisation_librairie/book_database.py -> /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie
+byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/request_manager.py to request_manager.cpython-38.pyc
+byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie/book_database.py to book_database.cpython-38.pyc
+running install_data
+copying resource/localisation_librairie -> /home/codespace/ros2_ws/install/localisation_librairie/share/ament_index/resource_index/ament_package
+copying package.xml -> /home/codespace/ros2_ws/install/localisation_librairie/share/localisation_librairie
+running install_egg_info
+Copying ../../../build/localisation_librairie/localisation_librairie.egg-info to /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation_librairie-0.0.1-py3.8.egg-info
+running install_scripts
+Installing book_database script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+Installing request_manager script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+writing list of installed files to '/home/codespace/ros2_ws/build/localisation_librairie/install.log'

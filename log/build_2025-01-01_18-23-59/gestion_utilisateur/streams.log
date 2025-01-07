@@ -1,0 +1,33 @@
+[1.100s] Invoking command in '/home/codespace/ros2_ws/src/src/gestion_utilisateur': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/gestion_utilisateur build --build-base /home/codespace/ros2_ws/build/gestion_utilisateur/build install --record /home/codespace/ros2_ws/build/gestion_utilisateur/install.log --install-scripts $base/lib/gestion_utilisateur --single-version-externally-managed install_data
+[1.391s] running egg_info
+[1.393s] creating ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info
+[1.394s] writing ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/PKG-INFO
+[1.394s] writing dependency_links to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/dependency_links.txt
+[1.394s] writing entry points to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/entry_points.txt
+[1.394s] writing requirements to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/requires.txt
+[1.395s] writing top-level names to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/top_level.txt
+[1.399s] writing manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+[1.450s] reading manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+[1.451s] writing manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+[1.451s] running build
+[1.451s] running build_py
+[1.452s] creating /home/codespace/ros2_ws/build/gestion_utilisateur/build
+[1.452s] creating /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib
+[1.452s] creating /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur
+[1.452s] copying gestion_utilisateur/__init__.py -> /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur
+[1.453s] running install
+[1.454s] running install_lib
+[1.455s] creating /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur
+[1.455s] copying /home/codespace/ros2_ws/build/gestion_utilisateur/build/lib/gestion_utilisateur/__init__.py -> /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur
+[1.456s] byte-compiling /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur/__init__.py to __init__.cpython-38.pyc
+[1.458s] running install_data
+[1.458s] creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index
+[1.458s] creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index
+[1.459s] creating /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+[1.459s] copying resource/gestion_utilisateur -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+[1.459s] copying package.xml -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/gestion_utilisateur
+[1.460s] running install_egg_info
+[1.462s] Copying ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info to /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur-0.0.0-py3.8.egg-info
+[1.464s] running install_scripts
+[1.489s] writing list of installed files to '/home/codespace/ros2_ws/build/gestion_utilisateur/install.log'
+[1.515s] Invoked command in '/home/codespace/ros2_ws/src/src/gestion_utilisateur' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/gestion_utilisateur build --build-base /home/codespace/ros2_ws/build/gestion_utilisateur/build install --record /home/codespace/ros2_ws/build/gestion_utilisateur/install.log --install-scripts $base/lib/gestion_utilisateur --single-version-externally-managed install_data

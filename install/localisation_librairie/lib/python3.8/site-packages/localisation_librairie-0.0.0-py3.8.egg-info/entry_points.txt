@@ -1,0 +1,4 @@
+[console_scripts]
+book_database = localisation_librairie.book_database:main
+request_manager = localisation_librairie.request_manager:main
+

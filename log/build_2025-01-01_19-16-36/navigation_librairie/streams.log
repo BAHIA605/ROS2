@@ -1,0 +1,19 @@
+[0.534s] Invoking command in '/home/codespace/ros2_ws/build/navigation_librairie': PYTHONPATH=/home/codespace/ros2_ws/build/navigation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/navigation_librairie/build --no-deps symlink_data --force
+[0.740s] running develop
+[0.852s] running egg_info
+[0.852s] writing navigation_librairie.egg-info/PKG-INFO
+[0.852s] writing dependency_links to navigation_librairie.egg-info/dependency_links.txt
+[0.852s] writing entry points to navigation_librairie.egg-info/entry_points.txt
+[0.853s] writing requirements to navigation_librairie.egg-info/requires.txt
+[0.853s] writing top-level names to navigation_librairie.egg-info/top_level.txt
+[0.883s] reading manifest file 'navigation_librairie.egg-info/SOURCES.txt'
+[0.883s] writing manifest file 'navigation_librairie.egg-info/SOURCES.txt'
+[0.930s] running build_ext
+[0.930s] Creating /home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/site.py
+[0.932s] Creating /home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/navigation-librairie.egg-link (link to .)
+[0.933s] 
+[0.933s] Installed /home/codespace/ros2_ws/build/navigation_librairie
+[0.934s] running symlink_data
+[0.934s] symbolically linking /home/codespace/ros2_ws/build/navigation_librairie/resource/navigation_librairie -> /home/codespace/ros2_ws/install/navigation_librairie/share/ament_index/resource_index/packages
+[0.934s] symbolically linking /home/codespace/ros2_ws/build/navigation_librairie/package.xml -> /home/codespace/ros2_ws/install/navigation_librairie/share/navigation_librairie
+[0.961s] Invoked command in '/home/codespace/ros2_ws/build/navigation_librairie' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/navigation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/navigation_librairie/build --no-deps symlink_data --force

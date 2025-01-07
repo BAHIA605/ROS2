@@ -1,0 +1,20 @@
+[0.888s] Invoking command in '/home/codespace/ros2_ws/src/src/gestion_utilisateur': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/gestion_utilisateur build --build-base /home/codespace/ros2_ws/build/gestion_utilisateur/build install --record /home/codespace/ros2_ws/build/gestion_utilisateur/install.log --install-scripts $base/lib/gestion_utilisateur --single-version-externally-managed install_data
+[1.317s] running egg_info
+[1.319s] writing ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/PKG-INFO
+[1.319s] writing dependency_links to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/dependency_links.txt
+[1.320s] writing entry points to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/entry_points.txt
+[1.320s] writing requirements to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/requires.txt
+[1.320s] writing top-level names to ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/top_level.txt
+[1.370s] reading manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+[1.371s] writing manifest file '../../../build/gestion_utilisateur/gestion_utilisateur.egg-info/SOURCES.txt'
+[1.372s] running build
+[1.372s] running build_py
+[1.372s] running install
+[1.373s] running install_lib
+[1.375s] running install_data
+[1.376s] running install_egg_info
+[1.378s] removing '/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur-0.0.0-py3.8.egg-info' (and everything under it)
+[1.379s] Copying ../../../build/gestion_utilisateur/gestion_utilisateur.egg-info to /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion_utilisateur-0.0.0-py3.8.egg-info
+[1.380s] running install_scripts
+[1.403s] writing list of installed files to '/home/codespace/ros2_ws/build/gestion_utilisateur/install.log'
+[1.436s] Invoked command in '/home/codespace/ros2_ws/src/src/gestion_utilisateur' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/gestion_utilisateur/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/gestion_utilisateur build --build-base /home/codespace/ros2_ws/build/gestion_utilisateur/build install --record /home/codespace/ros2_ws/build/gestion_utilisateur/install.log --install-scripts $base/lib/gestion_utilisateur --single-version-externally-managed install_data

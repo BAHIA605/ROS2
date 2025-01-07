@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing navigation_librairie.egg-info/PKG-INFO
+writing dependency_links to navigation_librairie.egg-info/dependency_links.txt
+writing entry points to navigation_librairie.egg-info/entry_points.txt
+writing requirements to navigation_librairie.egg-info/requires.txt
+writing top-level names to navigation_librairie.egg-info/top_level.txt
+reading manifest file 'navigation_librairie.egg-info/SOURCES.txt'
+writing manifest file 'navigation_librairie.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/site.py
+Creating /home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/navigation-librairie.egg-link (link to .)
+
+Installed /home/codespace/ros2_ws/build/navigation_librairie
+running symlink_data
+symbolically linking /home/codespace/ros2_ws/build/navigation_librairie/resource/navigation_librairie -> /home/codespace/ros2_ws/install/navigation_librairie/share/ament_index/resource_index/packages
+symbolically linking /home/codespace/ros2_ws/build/navigation_librairie/package.xml -> /home/codespace/ros2_ws/install/navigation_librairie/share/navigation_librairie

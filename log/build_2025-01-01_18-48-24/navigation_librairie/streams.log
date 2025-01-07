@@ -1,0 +1,20 @@
+[0.575s] Invoking command in '/home/codespace/ros2_ws/src/src/navigation_librairie': PYTHONPATH=/home/codespace/ros2_ws/build/navigation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/navigation_librairie build --build-base /home/codespace/ros2_ws/build/navigation_librairie/build install --record /home/codespace/ros2_ws/build/navigation_librairie/install.log --install-scripts $base/lib/navigation_librairie --single-version-externally-managed install_data
+[0.751s] running egg_info
+[0.752s] writing ../../../build/navigation_librairie/navigation_librairie.egg-info/PKG-INFO
+[0.752s] writing dependency_links to ../../../build/navigation_librairie/navigation_librairie.egg-info/dependency_links.txt
+[0.753s] writing entry points to ../../../build/navigation_librairie/navigation_librairie.egg-info/entry_points.txt
+[0.753s] writing requirements to ../../../build/navigation_librairie/navigation_librairie.egg-info/requires.txt
+[0.753s] writing top-level names to ../../../build/navigation_librairie/navigation_librairie.egg-info/top_level.txt
+[0.783s] reading manifest file '../../../build/navigation_librairie/navigation_librairie.egg-info/SOURCES.txt'
+[0.784s] writing manifest file '../../../build/navigation_librairie/navigation_librairie.egg-info/SOURCES.txt'
+[0.784s] running build
+[0.784s] running build_py
+[0.784s] running install
+[0.785s] running install_lib
+[0.786s] running install_data
+[0.786s] running install_egg_info
+[0.788s] removing '/home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/navigation_librairie-0.0.0-py3.8.egg-info' (and everything under it)
+[0.788s] Copying ../../../build/navigation_librairie/navigation_librairie.egg-info to /home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages/navigation_librairie-0.0.0-py3.8.egg-info
+[0.790s] running install_scripts
+[0.805s] writing list of installed files to '/home/codespace/ros2_ws/build/navigation_librairie/install.log'
+[0.822s] Invoked command in '/home/codespace/ros2_ws/src/src/navigation_librairie' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/navigation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/navigation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/navigation_librairie build --build-base /home/codespace/ros2_ws/build/navigation_librairie/build install --record /home/codespace/ros2_ws/build/navigation_librairie/install.log --install-scripts $base/lib/navigation_librairie --single-version-externally-managed install_data

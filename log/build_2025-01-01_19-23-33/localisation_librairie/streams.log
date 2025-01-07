@@ -1,0 +1,18 @@
+[1.021s] Invoking command in '/home/codespace/ros2_ws/build/localisation_librairie': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/localisation_librairie/build --no-deps symlink_data
+[1.325s] running develop
+[1.482s] running egg_info
+[1.482s] writing localisation_librairie.egg-info/PKG-INFO
+[1.483s] writing dependency_links to localisation_librairie.egg-info/dependency_links.txt
+[1.483s] writing entry points to localisation_librairie.egg-info/entry_points.txt
+[1.483s] writing requirements to localisation_librairie.egg-info/requires.txt
+[1.484s] writing top-level names to localisation_librairie.egg-info/top_level.txt
+[1.531s] reading manifest file 'localisation_librairie.egg-info/SOURCES.txt'
+[1.532s] writing manifest file 'localisation_librairie.egg-info/SOURCES.txt'
+[1.582s] running build_ext
+[1.583s] Creating /home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages/localisation-librairie.egg-link (link to .)
+[1.584s] Installing book_database script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+[1.585s] Installing request_manager script to /home/codespace/ros2_ws/install/localisation_librairie/lib/localisation_librairie
+[1.586s] 
+[1.586s] Installed /home/codespace/ros2_ws/build/localisation_librairie
+[1.586s] running symlink_data
+[1.622s] Invoked command in '/home/codespace/ros2_ws/build/localisation_librairie' returned '0': PYTHONPATH=/home/codespace/ros2_ws/build/localisation_librairie/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/install/localisation_librairie/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/codespace/ros2_ws/build/localisation_librairie/build --no-deps symlink_data

@@ -1,0 +1,33 @@
+[0.594s] Invoking command in '/home/codespace/ros2_ws/src/mon_package': PYTHONPATH=/home/codespace/ros2_ws/src/build/mon_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mon_package build --build-base /home/codespace/ros2_ws/src/build/mon_package/build install --record /home/codespace/ros2_ws/src/build/mon_package/install.log --install-scripts $base/lib/mon_package --single-version-externally-managed install_data
+[0.770s] running egg_info
+[0.771s] creating ../build/mon_package/mon_package.egg-info
+[0.771s] writing ../build/mon_package/mon_package.egg-info/PKG-INFO
+[0.772s] writing dependency_links to ../build/mon_package/mon_package.egg-info/dependency_links.txt
+[0.772s] writing entry points to ../build/mon_package/mon_package.egg-info/entry_points.txt
+[0.772s] writing requirements to ../build/mon_package/mon_package.egg-info/requires.txt
+[0.772s] writing top-level names to ../build/mon_package/mon_package.egg-info/top_level.txt
+[0.774s] writing manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+[0.803s] reading manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+[0.804s] writing manifest file '../build/mon_package/mon_package.egg-info/SOURCES.txt'
+[0.804s] running build
+[0.804s] running build_py
+[0.804s] creating /home/codespace/ros2_ws/src/build/mon_package/build
+[0.804s] creating /home/codespace/ros2_ws/src/build/mon_package/build/lib
+[0.804s] creating /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package
+[0.804s] copying mon_package/__init__.py -> /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package
+[0.804s] running install
+[0.805s] running install_lib
+[0.806s] creating /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package
+[0.806s] copying /home/codespace/ros2_ws/src/build/mon_package/build/lib/mon_package/__init__.py -> /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package
+[0.806s] byte-compiling /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package/__init__.py to __init__.cpython-38.pyc
+[0.807s] running install_data
+[0.808s] creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index
+[0.808s] creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index
+[0.808s] creating /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index/packages
+[0.808s] copying resource/mon_package -> /home/codespace/ros2_ws/src/install/mon_package/share/ament_index/resource_index/packages
+[0.808s] copying package.xml -> /home/codespace/ros2_ws/src/install/mon_package/share/mon_package
+[0.808s] running install_egg_info
+[0.810s] Copying ../build/mon_package/mon_package.egg-info to /home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages/mon_package-0.0.0-py3.8.egg-info
+[0.811s] running install_scripts
+[0.826s] writing list of installed files to '/home/codespace/ros2_ws/src/build/mon_package/install.log'
+[0.843s] Invoked command in '/home/codespace/ros2_ws/src/mon_package' returned '0': PYTHONPATH=/home/codespace/ros2_ws/src/build/mon_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/codespace/ros2_ws/src/install/mon_package/lib/python3.8/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mon_package build --build-base /home/codespace/ros2_ws/src/build/mon_package/build install --record /home/codespace/ros2_ws/src/build/mon_package/install.log --install-scripts $base/lib/mon_package --single-version-externally-managed install_data

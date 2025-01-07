@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing gestion_utilisateur.egg-info/PKG-INFO
+writing dependency_links to gestion_utilisateur.egg-info/dependency_links.txt
+writing entry points to gestion_utilisateur.egg-info/entry_points.txt
+writing requirements to gestion_utilisateur.egg-info/requires.txt
+writing top-level names to gestion_utilisateur.egg-info/top_level.txt
+reading manifest file 'gestion_utilisateur.egg-info/SOURCES.txt'
+writing manifest file 'gestion_utilisateur.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/codespace/ros2_ws/install/gestion_utilisateur/lib/python3.8/site-packages/gestion-utilisateur.egg-link (link to .)
+
+Installed /home/codespace/ros2_ws/build/gestion_utilisateur
+running symlink_data
+symbolically linking /home/codespace/ros2_ws/build/gestion_utilisateur/resource/gestion_utilisateur -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/ament_index/resource_index/packages
+symbolically linking /home/codespace/ros2_ws/build/gestion_utilisateur/package.xml -> /home/codespace/ros2_ws/install/gestion_utilisateur/share/gestion_utilisateur
